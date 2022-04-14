@@ -1,1 +1,11 @@
-# Binary-Search-Tree-Projesi
+# Binary-Search-Tree-Projesi [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+-Rootu 6 olarak seçtik diyelim
+- 7 değeri 6 dan büyük oldugu için 6 nın sağ tarafına yazılır
+- 5 değeri 6 dan küçük oldugu icin 6 nın soluna yazılır.  
+- 1 değeri 5 ten küçük olduğu için 5 in soluna yazılır 
+- 8 değeri 6 dan büyük ve 7 den de büyük olduğu için 7 nin sağına yazılır
+- 3 değeri 6 dan küçük ve 1 değerinden de büyük  olduğu için 5 in sağına yazılır
+- 0 değeri 6 dan ve 1 den küçük olduğu için 1 in soluna yazılır
+- 9 değeri 6 dan ve 8 den büyük olduğu için 8 in sağına yazılır
+- 4 değeri 6 dan küçük olduğu için ve 3 ten de büyük olduğu için 3 ün sağına yazılır
+- 2 değeri 6 dan küçük oluduğu için ve 1 den de büyük olduğu için 1 in sağına yazılır
